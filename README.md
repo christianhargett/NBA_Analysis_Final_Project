@@ -50,4 +50,6 @@
   
 
 # Dashboard: <br>
+•	Tableau Vizzes: https://public.tableau.com/profile/christian.hargett#!/vizhome/NBA_Final_Project_16085049213070/FGPCTsWinsvs_Losses  (cycle through worksheets in the Metadata)
+
 •	Current presentation of our project: https://docs.google.com/presentation/d/12ejlmgQIRVO0LbfAsxKkh3drddwy_zq03CxWQu24zEw/edit?usp=sharing
