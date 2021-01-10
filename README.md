@@ -62,7 +62,7 @@
 •	In our Player Stats dashboard we wanted to look at general offensive statistics for individual players. In this dashboard we are able to look at players with the most points as well as most three-pointers made. These visualizations can be filtered by season and by player. We were interested in these data points to get a general sense of how superstar players perform and how that might affect the total wins for a particular team.
 
 ### Tableau Visualizations:
-#### https://public.tableau.com/profile/christian.hargett#!/vizhome/NBA_Final_Project_16085049213070/FGPCTsWinsvs_Losses  (cycle through worksheets in the Metadata)
+#### https://public.tableau.com/profile/christian.hargett#!/vizhome/NBA_Final_Project_16085049213070/PlayerStats  (cycle through worksheets in the Metadata)
 #### https://public.tableau.com/profile/shaun.stewart8125#!/vizhome/NBA_Analysis_Final_Project/MLModels (cycle through worksheets in the Metadata)
 
 ## Modeling in R 
