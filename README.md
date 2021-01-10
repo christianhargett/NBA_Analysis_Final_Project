@@ -50,7 +50,16 @@
   
 
 # Dashboard: <br>
+
 •	Through Tableau we were able to perform some additional, high-level exploratory analysis on teams' FG, FG3, and FT percentages. The below visualizations depict teams' averages in the aforementioned statistics when they win versus when they lose while playing at home. The graphed averages in the below visuals have been taken across all seasons in the dataset (2003-2019). In the Tableau Public provided below these visuals, you can filter by team and by season as well:
+
+### Home Team Wins by Player
+![](https://github.com/Stewartsl17/NBA_Analysis_Final_Project/blob/main/Images/Home%20Team%20Wins%20By%20Player%20-%20Tableau.png)
+•	In this visualization, we can observe the collection of players in our dataset based on the amount of wins that they have. When utilzing the filter on the right, we can see that only about 20 players in our dataset have more than 700 wins. When we scale up to 800 wins, only four players remain visible. Given the longevity of some players, the names that make the latest stages are not overtly suprising.
+
+### Player Points and Home Team Wins
+![](https://github.com/Stewartsl17/NBA_Analysis_Final_Project/blob/main/Images/Pts%20and%20Home%20Team%20Wins%20-%20Tableau.png)
+•	In this visualization, we have shown a single data point for each player which showcases the amount of points that individual players have amassed over their time in the leagues. Similarly, when using the filter on the right, you can see that as you get to higher amounts of wins, the players tend to have higher amounts of points as well.
 
 ### FG PCTs Wins vs. Losses
 ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/FG%20PCTs%20Wins%20vs.%20Losses.png)
@@ -64,11 +73,20 @@
 ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/FT%20PCTs%20Wins%20vs%20Losses.png)
 •	Interestingly enough, there is not a noticeable difference in teams' FT% when they win versus when they lose. No matter the outcome of the game, teams generally make around 75% of their free throws. This feature will likely not be as important in predicting wins in our machine learning model.
 
+### Turnovers By Player By City
+![](https://github.com/Stewartsl17/NBA_Analysis_Final_Project/blob/main/Images/Turnovers%20by%20Player%20and%20City%20-%20Tableau.png)
+•	In order to look at the some of the negative aspects that may hinder winning, we also looked turnovers by player. Each of the small boxes represent one of the NBA teams and cities. We can see that for most of the more long-standing teams have accumulated more players with higher amounts of turnovers.
+
+### Points vs Turnovers By Player
+![](https://github.com/Stewartsl17/NBA_Analysis_Final_Project/blob/main/Images/Pts%20vs%20TO%20-%20Tableau.png)
+•	After plotting turnovers by player and by city, we also wanted to be able to look at the typical conversion rate (Pts per TO) for each individual player in the NBA. For each player, we have average points, average turnovers, and average pts per turnover.
+
 ### Player Stats
 ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Player%20Stats.png)
 •	In our Player Stats dashboard we wanted to look at general offensive statistics for individual players. In this dashboard we are able to look at players with the most points as well as most three-pointers made. These visualizations can be filtered by season and by player. We were interested in these data points to get a general sense of how superstar players perform and how that might affect the total wins for a particular team.
 
-
-•	Tableau Vizzes: https://public.tableau.com/profile/christian.hargett#!/vizhome/NBA_Final_Project_16085049213070/FGPCTsWinsvs_Losses  (cycle through worksheets in the Metadata)
+### Tableau Visualizations:
+•	https://public.tableau.com/profile/christian.hargett#!/vizhome/NBA_Final_Project_16085049213070/FGPCTsWinsvs_Losses  (cycle through worksheets in the Metadata)
+•	https://public.tableau.com/profile/shaun.stewart8125#!/vizhome/NBA_Analysis_Final_Project/MLModels (cycle through worksheets in the Metadata)
 
 •	Current presentation of our project: https://docs.google.com/presentation/d/12ejlmgQIRVO0LbfAsxKkh3drddwy_zq03CxWQu24zEw/edit?usp=sharing
