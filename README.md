@@ -2,6 +2,8 @@
 
 ## Team Members: Shaun Stewart & Christian Hargett
 
+•	Current presentation of our project: https://docs.google.com/presentation/d/12ejlmgQIRVO0LbfAsxKkh3drddwy_zq03CxWQu24zEw/edit?usp=sharing
+
 # Selected Topic: 
 •	Examining the different variables of the NBA and determining which have the most effect on winning.
 
@@ -22,36 +24,10 @@
     - What is the biggest factor for wins in the NBA? <br>
     - Is there a particular position that accounts for the most wins in the NBA? <br>
     - What factors can we use and accurately predict player usage and win chances? <br>
-
-# Machine Learning Model:
-
-## Modeling in Python
-•	For our project, we will have several different models based on the questions that we are hoping to answer: 
-
-### SVC Model <br>
-  ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/SVC%20Model%20-%20ML%20Modeling.png)
-### Logistic Regression <br>
-  ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/Logistic%20Regression%20-%20ML%20Modeling.png)
-### Random Forest <br>
-  ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/Random%20Forest%20-%20ML%20Modeling.png)
-### Easy Ensemble AdaBoost Classifier <br>
-  ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/EA%20Classifier%20-%20ML%20Modeling.png)
-
-## Modeling in R 
-•	Multiple linear regressions and correlations were done in R <br>
--	Multiple linear regressions of Games Data <br>
-    ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/Games%20Model%20-%20Multiple%20Regression.png)
--	Correlation Matrix of Games Data <br>
-    ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/Games_Heatmap.png) <br>
--	Multiple linear regressions of total NBA Data <br>
-    ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/All%20Data%20Model%20-%20Multiple%20Regression.png)
--	Correlation of Entire Dataset <br>
-    ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/NBA%20Data%20Heatmap.png)
-  
-
+    
 # Dashboard: <br>
 
-•	Through Tableau we were able to perform some additional, high-level exploratory analysis on teams' FG, FG3, and FT percentages. The below visualizations depict teams' averages in the aforementioned statistics when they win versus when they lose while playing at home. The graphed averages in the below visuals have been taken across all seasons in the dataset (2003-2019). In the Tableau Public provided below these visuals, you can filter by team and by season as well:
+•	Through Tableau we were able to perform some high-level exploratory analysis on teams' FG, FG3, and FT percentages as well as individual player performance. The below visualizations depict different analyses of the aforementioned categories from our dataset.
 
 ### Home Team Wins by Player
 ![](https://github.com/Stewartsl17/NBA_Analysis_Final_Project/blob/main/Images/Home%20Team%20Wins%20By%20Player%20-%20Tableau.png)
@@ -89,4 +65,27 @@
 •	https://public.tableau.com/profile/christian.hargett#!/vizhome/NBA_Final_Project_16085049213070/FGPCTsWinsvs_Losses  (cycle through worksheets in the Metadata)
 •	https://public.tableau.com/profile/shaun.stewart8125#!/vizhome/NBA_Analysis_Final_Project/MLModels (cycle through worksheets in the Metadata)
 
-•	Current presentation of our project: https://docs.google.com/presentation/d/12ejlmgQIRVO0LbfAsxKkh3drddwy_zq03CxWQu24zEw/edit?usp=sharing
+## Modeling in R 
+•	Multiple linear regressions and correlations were done in R <br>
+-	Multiple linear regressions of Games Data <br>
+    ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/Games%20Model%20-%20Multiple%20Regression.png)
+-	Correlation Matrix of Games Data <br>
+    ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/Games_Heatmap.png) <br>
+-	Multiple linear regressions of total NBA Data <br>
+    ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/All%20Data%20Model%20-%20Multiple%20Regression.png)
+-	Correlation of Entire Dataset <br>
+    ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/NBA%20Data%20Heatmap.png)
+    
+# Machine Learning Model:
+
+## Modeling in Python
+•	For our project, we will have several different models based on the questions that we are hoping to answer: 
+
+### SVC Model <br>
+  ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/SVC%20Model%20-%20ML%20Modeling.png)
+### Logistic Regression <br>
+  ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/Logistic%20Regression%20-%20ML%20Modeling.png)
+### Random Forest <br>
+  ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/Random%20Forest%20-%20ML%20Modeling.png)
+### Easy Ensemble AdaBoost Classifier <br>
+  ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/EA%20Classifier%20-%20ML%20Modeling.png)
