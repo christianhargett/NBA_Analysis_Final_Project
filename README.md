@@ -64,6 +64,10 @@
 ![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Images/FT%20PCTs%20Wins%20vs%20Losses.png)
 •	Interestingly enough, there is not a noticeable difference in teams' FT% when they win versus when they lose. No matter the outcome of the game, teams generally make around 75% of their free throws. This feature will likely not be as important in predicting wins in our machine learning model.
 
+### Player Stats
+![](https://github.com/christianhargett/NBA_Analysis_Final_Project/blob/main/Player%20Stats.png)
+•	In our Player Stats dashboard we wanted to look at general offensive statistics for individual players. In this dashboard we are able to look at players with the most points as well as most three-pointers made. These visualizations can be filtered by season and by player. We were interested in these data points to get a general sense of how superstar players perform and how that might affect the total wins for a particular team.
+
 
 •	Tableau Vizzes: https://public.tableau.com/profile/christian.hargett#!/vizhome/NBA_Final_Project_16085049213070/FGPCTsWinsvs_Losses  (cycle through worksheets in the Metadata)
 
